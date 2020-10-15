@@ -1,0 +1,14 @@
+<!DOCTYPE css>
+
+body {
+    background-color: grey;
+}
+
+style {
+    p.dotted {
+        text-align: right;
+    }
+    p.round {
+        text-align: right;
+    }
+}
