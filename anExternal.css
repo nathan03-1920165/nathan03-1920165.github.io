@@ -1,0 +1,31 @@
+External CSS Style Sheet
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p.dotted {
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    border-style: dotted;
+}
+
+p.round {
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+button {
+    float: right;
+}
